@@ -1,0 +1,12 @@
+<h1>name</h1>
+<p>tamari</p>
+<h2>surname</h2>
+<p>naveriani</p>
+<h3>age</h3>
+<p>12</p>
+<h4>foolname</h4>
+<p>tamarnaveriani</p>
+<h5>town</h5>
+<p>tbilisi</p>
+<h6>religion</h6>
+<p>qristian</p>
